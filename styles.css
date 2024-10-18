@@ -249,7 +249,7 @@ letter-spacing: 1.5px;
 .line2{
     height: 1px;
     width: 1110px;
-    border: 3px solid #DADADA;
+    border: 1px solid #DADADA;
 }
 .minibox8{
     display: flex;
@@ -299,6 +299,11 @@ font-weight: 700;
 line-height: normal;
 letter-spacing: 1.5px;
 text-decoration-line: underline;
+}
+.line1{
+    width: 150px;
+    height: 1px;
+    border: 1px solid #C396C6;
 }
 
 
